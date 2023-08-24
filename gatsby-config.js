@@ -8,7 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: `/zqnl.github.io`,
+  pathPrefix: `/questions-only`,
   siteMetadata: {
     title: `Questions Only`,
     author: {
