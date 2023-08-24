@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Questions Only`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Nami Liu`,
+      summary: `who passes her days in Sydney, Australia, exploring anything that sparks her interest.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `An eclectic collection of rabbit holes and research notes.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `nanommer`,
     },
   },
   plugins: [
